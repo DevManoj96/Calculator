@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 --- 
 # Contact
-Created by Manoj Meghwal
+Created by Manoj Meghwal.
 Feel free to open issues or submit pull requests.
 
 
